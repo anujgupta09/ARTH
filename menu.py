@@ -1,4 +1,4 @@
-import os
+import o
 import getpass
 
 os.system("tput setaf 3 && clear")
